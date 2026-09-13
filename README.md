@@ -1,16 +1,17 @@
 
-Hi Developers 👋!I’m @swethaakash
+# Hi, I'm Swetha Akash👋
+
 Software Engineer building scalable backend systems, cloud-native applications, and AI-powered products.
 
 I enjoy working at the intersection of software engineering, cloud infrastructure, and applied AI — turning complex problems into reliable, production-ready systems.
 
 ## What I Build
 
-🤖 AI/ML & LLM Applications
-☁️ Cloud-Native Systems
-⚙️ Backend & Distributed Systems
-🧠 RAG & Knowledge-Based Applications
-💻 Full-Stack Applications
+- 🤖 **AI/ML & LLM Applications**
+- 🧠 **RAG & Knowledge-Based Systems**
+- ⚙️ **Backend & Distributed Systems**
+- ☁️ **Cloud-Native Applications**
+- 💻 **Full-Stack Applications**
 
 ## Technical Focus
 
@@ -32,17 +33,25 @@ GitHub Actions · CI/CD
 ### Frontend
 React · Next.js · JavaScript
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### PlantGraph
-AI-powered P&ID intelligence platform...
+### 🌱 PlantGraph
 
- 
-🤝 I’m looking to collaborate on ...
-  I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out or check out my repositories for more exciting work!
+**AI-powered P&ID intelligence platform for exploring engineering
+relationships and technical knowledge.**
 
-📫 How to reach me ...
-  Portfolio
-  Medium
+PlantGraph transforms P&ID documents into structured engineering
+knowledge, enabling relationship discovery, dependency analysis,
+and natural-language search across complex technical data.
 
+**Focus:** Document Intelligence · Knowledge Graphs · RAG · LLMs ·
+PostgreSQL · React · AWS
+
+
+
+## 📫 Connect
+
+- 💼 LinkedIn 
+- 🌐 Portfolio
+- 📧 Email
 
